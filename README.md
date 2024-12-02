@@ -8,4 +8,4 @@ My Advent of Code Repo
 ### 2024
 - [x] Day 1
 - [x] Day 2
-- [] Day 3
+- [ ] Day 3
